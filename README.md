@@ -1,14 +1,18 @@
-# ARX Stories
+ARX STORIES — NO LOGIN EDITION
 
-Premium, mobile-first horror and mystery story archive.
+Files:
+- index.html
+- styles.css
+- script.js
+- assets/arx-mascot.png
+- assets/favicon.svg
 
-Collections: Real Paranormal Cases, Nightmare Fuel, Conspiracy Theories.
+No login, signup, Saved/bookmark button, database, API, or Supabase is included.
+The supplied ARX mascot image is kept as the logo. The three sections are empty and ready for stories later.
 
-## Publish with GitHub Pages
-1. Open repository **Settings**.
-2. Open **Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select branch `main` and folder `/(root)`, then Save.
-5. After deployment, open `https://arxstories.github.io/arx-stories/`.
-
-Static website only. No login, signup, database, API keys, or Supabase required.
+UPLOAD:
+1. Extract this ZIP on your phone.
+2. In GitHub repo ArxStories/arx-stories, choose Add file → Upload files.
+3. Upload the CONTENTS of this ZIP (index.html, styles.css, script.js, and the assets folder). Do not upload the ZIP itself.
+4. Commit changes directly to main.
+5. GitHub Pages is already configured for main / (root). Wait a minute and refresh https://arxstories.github.io/arx-stories/
